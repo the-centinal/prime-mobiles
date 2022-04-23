@@ -1,0 +1,837 @@
+Apr 23 2022 10:08:36
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:08:37
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:37
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:38
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:38
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:08:38
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:39
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:40
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:41
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:41
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:42
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:43
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:44
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:44
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:45
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:46
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:48
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:52
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:08:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:01
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:05
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:09:05
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:09:05
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:09:05
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:09:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:07
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:09:07
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:09:07
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:09:07
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:09:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:13
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:17
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:18
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:22
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:09:24
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:25
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:26
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:27
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:29
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:09:30
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:55
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:12:55
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:12:55
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:12:55
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:12:55
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:12:56
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:56
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:57
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:12:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:12:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:01
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:08
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:13:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:24
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:14:24
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:14:24
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:14:24
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:14:24
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:14:24
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:24
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:25
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:26
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:14:26
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:27
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:27
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:29
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:30
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:31
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:31
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:32
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:32
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:33
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:34
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:35
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:36
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:36
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:36
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:37
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:40
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:14:59
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:14:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:01
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:08
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:13
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:22
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:15:22
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:22
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:23
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:24
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:15:24
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:25
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:15:25
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:15:25
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:15:25
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:15:25
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:25
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:26
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:26
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:27
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:28
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:29
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:30
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:30
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:31
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:32
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:32
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:33
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:34
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:34
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:35
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:38
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:15:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:00
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:16:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:01
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:08
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:16:15
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:02
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 10:22:02
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 10:22:02
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 10:22:02
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 10:22:02
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 10:22:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:04
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 10:22:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:08
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:09
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:10
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:12
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:13
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:14
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:14
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:14
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:15
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 10:22:18
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:54
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:55
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:55
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:56
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:58
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 16:58:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:58:59
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:05
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:06
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:07
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:11
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:15
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:18
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:19
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:22
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\br25584i55km): Directory not empty","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Apr 23 2022 16:59:22
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 16:59:23
+{"Number":2,"Message":"unlink(C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\br25584i55km\\localhost-wordpress-20220423-165854-6ye87v.wpress): Permission denied","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Apr 23 2022 16:59:23
+{"Number":2,"Message":"unlink(C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\br25584i55km\\plugins.list): Permission denied","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":66}
+
+Apr 23 2022 16:59:23
+{"Number":2,"Message":"rmdir(C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\br25584i55km): Directory not empty","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Apr 23 2022 16:59:23
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 16:59:29
+{"Number":2,"Message":"filesize(): stat failed for C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\br25584i55km\\localhost-wordpress-20220423-165854-6ye87v.wpress","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
+Apr 23 2022 16:59:29
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:50
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 17:00:50
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 17:00:50
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 17:00:50
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 17:00:50
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:52
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:52
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:53
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:54
+{"Number":8192,"Message":"base64_encode(): Passing null to parameter #1 ($string) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\model\\export\\class-ai1wm-export-config.php","Line":164}
+
+Apr 23 2022 17:00:54
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:56
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:56
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:57
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:00:58
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:00
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:01
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:02
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:03
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:04
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:08
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:12
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:15
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:16
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:20
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:25
+{"type":8192,"message":"Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-includes\\Requests\\Utility\\CaseInsensitiveDictionary.php","line":91}
+
+Apr 23 2022 17:01:26
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:30
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:34
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:36
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:37
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:41
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:42
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:46
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:49
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:50
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:50
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:50
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:51
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::setTimezone($timezone) should either be compatible with DateTime::setTimezone(DateTimeZone $timezone): DateTime, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":60}
+
+Apr 23 2022 17:01:51
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getOffset() should either be compatible with DateTime::getOffset(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":48}
+
+Apr 23 2022 17:01:51
+{"Number":8192,"Message":"Return type of ActionScheduler_DateTime::getTimestamp() should either be compatible with DateTime::getTimestamp(): int, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\classes\\ActionScheduler_DateTime.php","Line":27}
+
+Apr 23 2022 17:01:51
+{"Number":8192,"Message":"DateTime::__construct(): Passing null to parameter #1 ($datetime) of type string is deprecated","File":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\packages\\action-scheduler\\functions.php","Line":316}
+
+Apr 23 2022 17:01:51
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:52
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
+Apr 23 2022 17:01:53
+{"type":8192,"message":"Return type of WC_Meta_Data::jsonSerialize() should either be compatible with JsonSerializable::jsonSerialize(): mixed, or the #[\\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice","file":"C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins\\woocommerce\\includes\\class-wc-meta-data.php","line":50}
+
